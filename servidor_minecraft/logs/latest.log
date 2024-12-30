@@ -218,3 +218,10 @@
 [06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=69, z=678} jd{x=-4875, y=67, z=679}
 [06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=68, z=677} jd{x=-4875, y=67, z=679}
 [06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=68, z=677} jd{x=-4875, y=67, z=679}
+[06:45:23] [Server thread/INFO]: CamiloIg5781 lost connection: Disconnected
+[06:45:23] [Server thread/INFO]: CamiloIg5781 left the game
+[06:45:36] [Server thread/INFO]: CamiloIg5781[/127.204.154.230:34929] logged in with entity id 272833 at (-470.43648740559576, -56.0, -2338.3644788292872)
+[06:45:36] [Server thread/INFO]: CamiloIg5781 joined the game
+[06:51:41] [Server thread/INFO]: Villager cmk['Villager'/273709, l='ServerLevel[Trap Argentino server]', x=-221.71, y=110.00, z=-2479.70] died, message: 'Villager was slain by Zombie'
+[06:52:16] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[06:52:16] [Server thread/INFO]: DetzelVGL left the game
