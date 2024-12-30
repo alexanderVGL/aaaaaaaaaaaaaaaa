@@ -110,3 +110,10 @@
 [02:17:27] [Server thread/INFO]: facundokennedy has made the advancement [We Need to Go Deeper]
 [02:17:32] [Server thread/INFO]: DetzelVGL has made the advancement [We Need to Go Deeper]
 [02:17:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-274, y=116, z=-2426} jd{x=-276, y=115, z=-2426}
+[02:18:43] [Server thread/INFO]: facundokennedy lost connection: Timed out
+[02:18:43] [Server thread/INFO]: facundokennedy left the game
+[02:18:43] [Server thread/WARN]: handleDisconnection() called twice
+[02:24:43] [Server thread/INFO]: DetzelVGL has made the advancement [Isn't It Iron Pick]
+[02:25:03] [Server thread/INFO]: DetzelVGL has made the advancement [Enchanter]
+[02:33:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-439, y=116, z=74} jd{x=-440, y=115, z=74}
+[02:38:08] [Server thread/INFO]: DetzelVGL has made the advancement [Ice Bucket Challenge]
