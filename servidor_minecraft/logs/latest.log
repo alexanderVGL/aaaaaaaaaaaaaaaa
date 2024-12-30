@@ -31,3 +31,6 @@
 [01:25:36] [Server thread/INFO]: [Not Secure] <CamiloIg5781> -537
 [01:25:46] [Server thread/INFO]: [Not Secure] <CamiloIg5781> 75
 [01:26:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=117, z=-186} jd{x=-25, y=117, z=-185}
+[01:28:14] [Server thread/INFO]: CamiloIg5781 has made the advancement [Hidden in the Depths]
+[01:32:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=112, z=73} jd{x=-538, y=116, z=75}
+[01:32:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=112, z=73} jd{x=-538, y=117, z=74}

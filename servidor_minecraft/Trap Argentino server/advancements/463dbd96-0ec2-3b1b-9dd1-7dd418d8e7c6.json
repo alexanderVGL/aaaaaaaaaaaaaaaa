@@ -15,6 +15,7 @@
       "minecraft:taiga": "2024-12-30 00:33:51 +0000",
       "minecraft:river": "2024-12-29 22:29:34 +0000",
       "minecraft:stony_shore": "2024-12-29 22:42:00 +0000",
+      "minecraft:snowy_plains": "2024-12-30 01:33:11 +0000",
       "minecraft:dripstone_caves": "2024-12-29 22:40:11 +0000",
       "minecraft:desert": "2024-12-29 02:12:43 +0000",
       "minecraft:deep_dark": "2024-12-30 00:00:40 +0000",
@@ -1675,13 +1676,20 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-30 00:44:32 +0000",
-      "minecraft:nether_wastes": "2024-12-30 00:56:43 +0000"
+      "minecraft:nether_wastes": "2024-12-30 00:56:43 +0000",
+      "minecraft:warped_forest": "2024-12-30 01:28:51 +0000"
     },
     "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-30 00:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 01:28:14 +0000"
     },
     "done": true
   },
@@ -1715,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 01:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-30 00:38:01 +0000"
@@ -1730,6 +1744,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-30 00:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-30 01:28:14 +0000"
     },
     "done": true
   },
