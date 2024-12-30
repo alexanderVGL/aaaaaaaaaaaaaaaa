@@ -117,3 +117,7 @@
 [02:25:03] [Server thread/INFO]: DetzelVGL has made the advancement [Enchanter]
 [02:33:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-439, y=116, z=74} jd{x=-440, y=115, z=74}
 [02:38:08] [Server thread/INFO]: DetzelVGL has made the advancement [Ice Bucket Challenge]
+[02:58:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-250, y=111, z=-2474} jd{x=-249, y=110, z=-2473}
+[02:58:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-251, y=112, z=-2472} jd{x=-252, y=110, z=-2471}
+[02:58:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-252, y=112, z=-2470} jd{x=-255, y=110, z=-2467}
+[02:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-254, y=112, z=-2467} jd{x=-253, y=110, z=-2466}
