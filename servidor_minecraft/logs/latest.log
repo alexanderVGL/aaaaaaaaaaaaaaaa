@@ -9,3 +9,16 @@
 [00:32:39] [Server thread/INFO]: CamiloIg5781 left the game
 [00:32:50] [Server thread/INFO]: CamiloIg5781[/127.204.154.230:49189] logged in with entity id 73804 at (-761.2658563126308, 64.0, -2718.461056974031)
 [00:32:50] [Server thread/INFO]: CamiloIg5781 joined the game
+[00:38:01] [Server thread/INFO]: CamiloIg5781 has made the advancement [Enchanter]
+[00:38:18] [Server thread/INFO]: DetzelVGL has made the advancement [Suit Up]
+[00:44:30] [Server thread/INFO]: CamiloIg5781 has made the advancement [We Need to Go Deeper]
+[00:44:31] [Server thread/WARN]: DetzelVGL moved too quickly! -8.495779731583752,-2.604424101326714,5.246069628619352
+[00:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
+[00:47:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=87, z=-301} jd{x=-25, y=86, z=-301}
+[00:47:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=88, z=-301} jd{x=-25, y=86, z=-301}
+[00:47:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=89, z=-301} jd{x=-25, y=86, z=-301}
+[00:52:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=100, z=-301} jd{x=-25, y=99, z=-301}
+[00:52:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=101, z=-301} jd{x=-25, y=99, z=-301}
+[00:52:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=102, z=-301} jd{x=-25, y=99, z=-301}
+[00:52:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-25, y=103, z=-301} jd{x=-25, y=99, z=-301}
+[00:55:33] [Server thread/INFO]: [Not Secure] <CamiloIg5781> -32 -291
