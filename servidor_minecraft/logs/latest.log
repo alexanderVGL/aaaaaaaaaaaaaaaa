@@ -164,3 +164,7 @@
 [04:24:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-267, y=115, z=-2411} jd{x=-268, y=114, z=-2408}
 [04:24:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-267, y=115, z=-2411} jd{x=-268, y=114, z=-2408}
 [04:24:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-267, y=115, z=-2411} jd{x=-268, y=114, z=-2408}
+[04:33:21] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[04:33:21] [Server thread/INFO]: DetzelVGL left the game
+[04:33:30] [Server thread/INFO]: DetzelVGL[/127.40.79.81:33941] logged in with entity id 202467 at (-4880.408601202555, 68.0, 674.6709824753345)
+[04:33:30] [Server thread/INFO]: DetzelVGL joined the game
