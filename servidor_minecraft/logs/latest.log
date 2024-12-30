@@ -121,3 +121,5 @@
 [02:58:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-251, y=112, z=-2472} jd{x=-252, y=110, z=-2471}
 [02:58:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-252, y=112, z=-2470} jd{x=-255, y=110, z=-2467}
 [02:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-254, y=112, z=-2467} jd{x=-253, y=110, z=-2466}
+[03:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
+[03:07:17] [Server thread/INFO]: DetzelVGL has made the advancement [Diamonds!]
