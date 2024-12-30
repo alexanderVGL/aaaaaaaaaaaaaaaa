@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1ba2db80-7d4c-3937-a452-4d0fa2abd434",
+    "name": "DetzelVGL",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
