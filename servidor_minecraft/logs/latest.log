@@ -1,25 +1,122 @@
-[17:20:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:20:19] [ServerMain/INFO]: Loaded 1290 recipes
-[17:20:19] [ServerMain/INFO]: Loaded 1399 advancements
-[17:20:19] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:20:19] [Server thread/INFO]: Loading properties
-[17:20:19] [Server thread/INFO]: Default game type: SURVIVAL
-[17:20:19] [Server thread/INFO]: Generating keypair
-[17:20:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:20:20] [Server thread/INFO]: Using epoll channel type
-[17:20:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:20:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:20:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:20:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:20:20] [Server thread/INFO]: Preparing level "Trap Argentino server"
-[17:20:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:20:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:20:23] [Server thread/INFO]: Time elapsed: 368 ms
-[17:20:23] [Server thread/INFO]: Done (2.868s)! For help, type "help"
-[17:27:34] [Server thread/INFO]: DetzelVGL[/127.87.178.72:39699] logged in with entity id 12 at (-4878.809188878284, 68.9375, 695.6999999880791)
-[17:27:34] [Server thread/INFO]: DetzelVGL joined the game
-[17:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4947, y=71, z=763} jd{x=-4947, y=69, z=764}
-[17:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4947, y=71, z=763} jd{x=-4947, y=69, z=764}
-[17:54:14] [Server thread/INFO]: DetzelVGL fell from a high place
-[17:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4946, y=71, z=757} jd{x=-4946, y=69, z=758}
-[18:13:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4903, y=69, z=720} jd{x=-4903, y=70, z=720}
+[18:37:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:37:25] [ServerMain/INFO]: Loaded 1290 recipes
+[18:37:25] [ServerMain/INFO]: Loaded 1399 advancements
+[18:37:25] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:37:25] [Server thread/INFO]: Loading properties
+[18:37:25] [Server thread/INFO]: Default game type: SURVIVAL
+[18:37:25] [Server thread/INFO]: Generating keypair
+[18:37:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:37:25] [Server thread/INFO]: Using epoll channel type
+[18:37:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:37:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:37:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:37:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:37:25] [Server thread/INFO]: Preparing level "Trap Argentino server"
+[18:37:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:37:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:37:28] [Server thread/INFO]: Time elapsed: 476 ms
+[18:37:28] [Server thread/INFO]: Done (2.870s)! For help, type "help"
+[18:37:48] [Server thread/INFO]: DetzelVGL[/127.87.178.72:54781] logged in with entity id 12 at (-4873.487411290595, 73.0, 786.2213156422692)
+[18:37:48] [Server thread/INFO]: DetzelVGL joined the game
+[18:39:34] [Server thread/INFO]: Dennexx_b[/127.63.161.212:52255] logged in with entity id 767 at (-223.5, 72.0, -123.5)
+[18:39:34] [Server thread/INFO]: Dennexx_b joined the game
+[18:39:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-221, y=73, z=-121}
+[18:39:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-221, y=72, z=-121}
+[18:39:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-224, y=70, z=-123}
+[18:40:18] [Server thread/INFO]: [DetzelVGL: Teleported Dennexx_b to DetzelVGL]
+[18:40:26] [Server thread/INFO]: Dennexx_b has made the advancement [Sweet Dreams]
+[18:40:40] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[18:40:40] [Server thread/INFO]: DetzelVGL left the game
+[18:40:50] [Server thread/INFO]: DetzelVGL[/127.87.178.72:34521] logged in with entity id 1309 at (-4868.536067608484, 70.0, 701.223872336033)
+[18:40:50] [Server thread/INFO]: DetzelVGL joined the game
+[18:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4867, y=69, z=656} jd{x=-4867, y=67, z=655}
+[18:44:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4873, y=69, z=660} jd{x=-4874, y=68, z=660}
+[18:44:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4873, y=68, z=663} jd{x=-4872, y=67, z=662}
+[18:44:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4868, y=68, z=668} jd{x=-4869, y=66, z=666}
+[18:44:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4901, y=72, z=675} jd{x=-4902, y=70, z=674}
+[18:44:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4901, y=72, z=675} jd{x=-4902, y=70, z=674}
+[18:49:40] [Server thread/INFO]: Dennexx_b has made the advancement [Stone Age]
+[18:52:01] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[18:52:01] [Server thread/INFO]: Dennexx_b left the game
+[18:52:09] [Server thread/INFO]: Dennexx_b[/127.63.161.212:38901] logged in with entity id 4898 at (-4956.4587685315255, 66.0, 830.6999999880791)
+[18:52:09] [Server thread/INFO]: Dennexx_b joined the game
+[19:03:14] [Server thread/INFO]: Dennexx_b has made the advancement [Ice Bucket Challenge]
+[19:03:24] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[19:03:24] [Server thread/INFO]: Dennexx_b left the game
+[19:03:46] [Server thread/INFO]: Dennexx_b[/127.63.161.212:42471] logged in with entity id 12676 at (-4821.22458777411, 62.110764312744145, 2123.460455391983)
+[19:03:46] [Server thread/INFO]: Dennexx_b joined the game
+[19:09:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-542, y=107, z=92} jd{x=-541, y=107, z=91}
+[19:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-545, y=109, z=90} jd{x=-540, y=94, z=89}
+[19:19:52] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[19:19:52] [Server thread/INFO]: Dennexx_b left the game
+[19:20:10] [Server thread/INFO]: Dennexx_b[/127.63.161.212:47081] logged in with entity id 22227 at (-5968.198325214935, 70.0, 2512.2433525436495)
+[19:20:10] [Server thread/INFO]: Dennexx_b joined the game
+[19:28:01] [Server thread/INFO]: Dennexx_b has made the advancement [Monster Hunter]
+[19:30:06] [Server thread/INFO]: Dennexx_b has made the advancement [Getting an Upgrade]
+[19:32:00] [Server thread/INFO]: Dennexx_b has made the advancement [Diamonds!]
+[19:35:37] [Server thread/INFO]: Villager cmk['Villager'/26600, l='ServerLevel[Trap Argentino server]', x=-4892.36, y=89.19, z=741.84] died, message: 'Villager was slain by Zombie'
+[19:35:41] [Server thread/INFO]: Villager cmk['Villager'/26601, l='ServerLevel[Trap Argentino server]', x=-4892.36, y=89.19, z=741.84] died, message: 'Villager was slain by Zombie Villager'
+[19:36:20] [Server thread/INFO]: Villager cmk['Villager'/26602, l='ServerLevel[Trap Argentino server]', x=-4914.90, y=71.00, z=718.02] died, message: 'Villager hit the ground too hard'
+[19:39:12] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[19:39:12] [Server thread/INFO]: Dennexx_b left the game
+[19:42:03] [Server thread/INFO]: Dennexx_b[/127.63.161.212:50365] logged in with entity id 32063 at (-5957.699999988079, 25.0, 2730.999191222704)
+[19:42:03] [Server thread/INFO]: Dennexx_b joined the game
+[19:42:06] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[19:42:06] [Server thread/INFO]: Dennexx_b left the game
+[19:42:12] [Server thread/INFO]: Dennexx_b[/127.63.161.212:50859] logged in with entity id 32378 at (-5957.699999988079, 25.0, 2730.999191222704)
+[19:42:12] [Server thread/INFO]: Dennexx_b joined the game
+[19:49:07] [Server thread/INFO]: Dennexx_b was killed while trying to hurt Skeleton
+[20:01:56] [Server thread/INFO]: [DetzelVGL: Teleported Dennexx_b to DetzelVGL]
+[20:09:38] [Server thread/INFO]: [DetzelVGL: Teleported Dennexx_b to DetzelVGL]
+[20:15:34] [Server thread/INFO]: [DetzelVGL: Teleported Dennexx_b to DetzelVGL]
+[20:18:03] [Server thread/INFO]: Dennexx_b fell from a high place
+[20:21:18] [Server thread/INFO]: [DetzelVGL: Teleported Dennexx_b to DetzelVGL]
+[20:24:34] [Server thread/INFO]: Dennexx_b lost connection: Disconnected
+[20:24:34] [Server thread/INFO]: Dennexx_b left the game
+[20:49:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4825, y=69, z=677} jd{x=-4827, y=68, z=678}
+[20:52:13] [Server thread/INFO]: facundokennedy[/127.60.221.76:56023] logged in with entity id 53017 at (-334.75572824870295, 117.0, 75.51244614826166)
+[20:52:13] [Server thread/INFO]: facundokennedy joined the game
+[20:53:51] [Server thread/INFO]: facundokennedy has made the advancement [Monster Hunter]
+[20:54:04] [Server thread/INFO]: facundokennedy was slain by DetzelVGL
+[21:12:53] [Server thread/INFO]: facundokennedy lost connection: Disconnected
+[21:12:53] [Server thread/INFO]: facundokennedy left the game
+[21:13:03] [Server thread/INFO]: facundokennedy[/127.60.221.76:53425] logged in with entity id 61696 at (-4919.335239218528, 77.0, 786.7106032200024)
+[21:13:03] [Server thread/INFO]: facundokennedy joined the game
+[21:14:12] [Server thread/INFO]: facundokennedy has made the advancement [Acquire Hardware]
+[21:14:46] [Server thread/INFO]: facundokennedy has made the advancement [Isn't It Iron Pick]
+[21:24:31] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[21:24:31] [Server thread/INFO]: DetzelVGL left the game
+[21:24:39] [Server thread/INFO]: DetzelVGL[/127.87.178.72:49319] logged in with entity id 67374 at (-5129.392135595616, 56.0, 765.9578346724223)
+[21:24:39] [Server thread/INFO]: DetzelVGL joined the game
+[21:31:15] [Server thread/INFO]: facundokennedy has made the advancement [Stone Age]
+[21:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4820, y=70, z=676} jd{x=-4819, y=68, z=677}
+[21:45:06] [Server thread/INFO]: [Not Secure] <facundokennedy> -472 68 661
+[21:54:50] [Server thread/INFO]: facundokennedy was shot by Skeleton
+[21:54:59] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[21:54:59] [Server thread/INFO]: DetzelVGL left the game
+[21:55:04] [Server thread/INFO]: DetzelVGL[/127.87.178.72:34327] logged in with entity id 81601 at (-5207.573049978434, 123.5, 815.6611472052516)
+[21:55:04] [Server thread/INFO]: DetzelVGL joined the game
+[21:57:49] [Server thread/INFO]: facundokennedy has made the advancement [Suit Up]
+[22:02:04] [Server thread/INFO]: [Not Secure] <facundokennedy> -1 305
+[22:04:36] [Server thread/INFO]: [DetzelVGL: Teleported facundokennedy to DetzelVGL]
+[22:08:05] [Server thread/INFO]: Villager cmk['Villager'/85811, l='ServerLevel[Trap Argentino server]', x=-4281.11, y=64.00, z=595.10] died, message: 'Villager tried to swim in lava'
+[22:08:31] [Server thread/INFO]: facundokennedy has made the advancement [What a Deal!]
+[22:09:00] [Server thread/INFO]: Villager cmk['Villager'/85792, l='ServerLevel[Trap Argentino server]', x=-4280.72, y=64.00, z=592.72] died, message: 'Villager tried to swim in lava'
+[22:09:00] [Server thread/INFO]: Villager cmk['Villager'/85798, l='ServerLevel[Trap Argentino server]', x=-4280.72, y=64.00, z=595.08] died, message: 'Villager tried to swim in lava'
+[22:09:01] [Server thread/INFO]: Villager cmk['Villager'/85793, l='ServerLevel[Trap Argentino server]', x=-4281.43, y=64.02, z=593.70] died, message: 'Villager tried to swim in lava'
+[22:09:05] [Server thread/INFO]: Villager cmk['Villager'/85815, l='ServerLevel[Trap Argentino server]', x=-4278.16, y=64.13, z=594.72] died, message: 'Villager burned to death'
+[22:09:08] [Server thread/INFO]: Villager cmk['Villager'/85800, l='ServerLevel[Trap Argentino server]', x=-4277.30, y=65.00, z=593.91] died, message: 'Villager burned to death'
+[22:09:08] [Server thread/INFO]: Villager cmk['Villager'/85808, l='ServerLevel[Trap Argentino server]', x=-4279.25, y=64.00, z=591.39] died, message: 'Villager burned to death'
+[22:24:21] [Server thread/INFO]: facundokennedy was shot by Skeleton
+[22:28:27] [Server thread/INFO]: facundokennedy has made the advancement [Hot Stuff]
+[22:29:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4732, y=69, z=649} jd{x=-4732, y=68, z=648}
+[22:48:48] [Server thread/INFO]: [DetzelVGL: Teleported facundokennedy to DetzelVGL]
+[23:00:21] [Server thread/INFO]: facundokennedy has made the advancement [Diamonds!]
+[23:11:50] [Server thread/INFO]: Villager cmk['Farmer'/116057, l='ServerLevel[Trap Argentino server]', x=-4279.51, y=69.00, z=605.30] died, message: 'Farmer was slain by Zombie'
+[23:12:02] [Server thread/INFO]: Villager cmk['Fletcher'/116058, l='ServerLevel[Trap Argentino server]', x=-4279.50, y=69.00, z=605.30] died, message: 'Fletcher was slain by Zombie'
+[23:12:52] [Server thread/INFO]: facundokennedy lost connection: Disconnected
+[23:12:52] [Server thread/INFO]: facundokennedy left the game
+[23:13:21] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[23:13:21] [Server thread/INFO]: DetzelVGL left the game
+[23:16:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:16:43] [Server thread/INFO]: <--[HERE]
