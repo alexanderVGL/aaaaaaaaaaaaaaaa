@@ -18,3 +18,5 @@
 [17:20:23] [Server thread/INFO]: Done (2.868s)! For help, type "help"
 [17:27:34] [Server thread/INFO]: DetzelVGL[/127.87.178.72:39699] logged in with entity id 12 at (-4878.809188878284, 68.9375, 695.6999999880791)
 [17:27:34] [Server thread/INFO]: DetzelVGL joined the game
+[17:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4947, y=71, z=763} jd{x=-4947, y=69, z=764}
+[17:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4947, y=71, z=763} jd{x=-4947, y=69, z=764}
