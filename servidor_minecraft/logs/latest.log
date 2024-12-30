@@ -200,3 +200,21 @@
 [05:18:36] [Server thread/INFO]: owem03 left the game
 [05:20:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-266, y=112, z=-2394} jd{x=-264, y=111, z=-2395}
 [05:20:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-266, y=112, z=-2394} jd{x=-264, y=111, z=-2395}
+[06:18:47] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
+[06:18:47] [Server thread/INFO]: DetzelVGL left the game
+[06:20:21] [Server thread/INFO]: CamiloIg5781 lost connection: Timed out
+[06:20:21] [Server thread/INFO]: CamiloIg5781 left the game
+[06:20:53] [Server thread/INFO]: DetzelVGL[/127.40.79.81:53633] logged in with entity id 258229 at (-4868.506897940452, 70.0, 708.7148200019004)
+[06:20:53] [Server thread/INFO]: DetzelVGL joined the game
+[06:21:33] [Server thread/INFO]: CamiloIg5781[/127.204.154.230:46163] logged in with entity id 258576 at (-232.36298908697307, 115.0, -2468.202133189745)
+[06:21:33] [Server thread/INFO]: CamiloIg5781 joined the game
+[06:34:11] [Server thread/INFO]: CamiloIg5781 lost connection: Disconnected
+[06:34:11] [Server thread/INFO]: CamiloIg5781 left the game
+[06:34:21] [Server thread/INFO]: CamiloIg5781[/127.204.154.230:41335] logged in with entity id 266684 at (-176.98251962887292, -21.0, -2417.8404977497303)
+[06:34:21] [Server thread/INFO]: CamiloIg5781 joined the game
+[06:34:43] [Server thread/INFO]: CamiloIg5781 has made the advancement [Sneak 100]
+[06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=69, z=679} jd{x=-4876, y=67, z=679}
+[06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=69, z=678} jd{x=-4875, y=67, z=679}
+[06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=69, z=678} jd{x=-4875, y=67, z=679}
+[06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=68, z=677} jd{x=-4875, y=67, z=679}
+[06:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4877, y=68, z=677} jd{x=-4875, y=67, z=679}
