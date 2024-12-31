@@ -13,7 +13,7 @@ cutter:
   - DIAMOND_AXE
   - NETHERITE_AXE
 options:
-  sneak: 'off'
+  sneak: 'on'
   toggleable: 'off'
   sync-detection: false
   animation: true
