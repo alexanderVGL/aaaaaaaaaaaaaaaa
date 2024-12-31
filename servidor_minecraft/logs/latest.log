@@ -52,3 +52,6 @@
 [01:51:51] [Server thread/INFO]: DetzelVGL[/127.87.178.72:45905] logged in with entity id 1589 at ([Trap Argentino server]-5202.757115024363, 124.125, 815.1238314780325)
 [02:38:25] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
 [02:38:25] [Server thread/INFO]: DetzelVGL left the game
+[02:58:23] [User Authenticator #2/INFO]: UUID of player DetzelVGL is 1ba2db80-7d4c-3937-a452-4d0fa2abd434
+[02:58:25] [Server thread/INFO]: DetzelVGL joined the game
+[02:58:25] [Server thread/INFO]: DetzelVGL[/127.87.178.72:57729] logged in with entity id 7707 at ([Trap Argentino server]-5177.689450700325, 116.0, 785.2131088463268)
