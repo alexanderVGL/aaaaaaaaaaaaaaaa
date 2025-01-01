@@ -18,3 +18,27 @@
 [00:13:11] [Server thread/INFO]: DetzelVGL[/127.87.178.72:49249] logged in with entity id 21766 at ([Trap Argentino server]-4783.137161260251, 74.0, 713.7315125420128)
 [00:26:31] [Server thread/INFO]: DetzelVGL lost connection: Disconnected
 [00:26:31] [Server thread/INFO]: DetzelVGL left the game
+[01:10:11] [Server thread/INFO]: Stopping server
+[01:10:11] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[01:10:11] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.2
+[01:10:11] [Server thread/INFO]: Saving players
+[01:10:11] [Server thread/INFO]: Saving worlds
+[01:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Trap Argentino server]'/minecraft:overworld
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Trap Argentino server'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Trap Argentino server'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Trap Argentino server'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'Trap Argentino server' in 0.01s
+[01:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Trap Argentino server_nether]'/minecraft:the_nether
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Trap Argentino server_nether'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Trap Argentino server_nether'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Trap Argentino server_nether'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'Trap Argentino server_nether' in 0.00s
+[01:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Trap Argentino server_the_end]'/minecraft:the_end
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Trap Argentino server_the_end'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Trap Argentino server_the_end'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Trap Argentino server_the_end'
+[01:10:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'Trap Argentino server_the_end' in 0.00s
+[01:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (Trap Argentino server): All chunks are saved
+[01:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
